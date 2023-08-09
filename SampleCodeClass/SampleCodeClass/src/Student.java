@@ -37,6 +37,7 @@ public class Student {
  {
      System.out.println("Hello");
      System.out.println("Bello~");
+     System.out.println("Hola~");
      return;
 }
 
