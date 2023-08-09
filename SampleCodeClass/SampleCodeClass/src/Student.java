@@ -36,6 +36,7 @@ public class Student {
     void testAll()
  {
      System.out.println("Hello");
+     System.out.println("Bello~");
      return;
 }
 
